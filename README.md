@@ -4,12 +4,11 @@
 **1) What is this repository about?**
 
 In this repository, we are going to build Interactive dashboard using Bokeh and Pandas.
+It includes the jupyter notebook (.ipynb) and a readme.
 
 **2) What is Bokeh?**
 
 Bokeh is an Open-Source library for interactive visualization that renders graphics using HTML and JavaScript. It is a powerful EDA tool that can also be used to build web-based dashboards and applications.
-
-It includes the jupyter notebook (.ipynb) and a readme.
 
 **3) Which libraries has been used for creation for dashboard?**
 
